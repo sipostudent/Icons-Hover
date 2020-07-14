@@ -3,7 +3,7 @@
   <img src = "assets/img/icon-hover.png" width = "600">
   <br>
     <br>
-  Icon Hover - HTML & CSS
+  Social Media Icon Hover - HTML & CSS
   <br>
 </ H1>
 
